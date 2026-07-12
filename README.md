@@ -1,7 +1,7 @@
 <div align="center">
   <!-- HEADER BANNER: Ganti link di bawah ini dengan banner Anda dari Canva/Figma -->
   <a href="https://www.linkedin.com/in/raiganet">
-    <img src="https://github.com/user-attachments/assets/00000000-0000-0000-0000-000000000000" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+    <img src="https://raw.githubusercontent.com/Raiganet/Raiganet/main/banner.png" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
   </a>
 </div>
 
