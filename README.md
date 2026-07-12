@@ -8,8 +8,7 @@
 <br>
 
 <div align="center">
-  <!-- ANIMATED TYPING TEXT -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Halo,+Saya+Diky+Hermansyah;Full-Stack+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Raiganet/Raiganet/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <br>
